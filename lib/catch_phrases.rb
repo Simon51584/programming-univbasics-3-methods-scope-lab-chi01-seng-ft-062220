@@ -11,5 +11,10 @@ def link
   puts phrase = "It's Dangerous To Go Alone! Take This."
 end
 
-all_phrases("mario", "toadstool", "link")
+def all_phrases
+  puts mario 
+  puts toadstool
+  puts link
+end
+
 
